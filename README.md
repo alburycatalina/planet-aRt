@@ -5,7 +5,7 @@ Here I use `aRtsy` and `MetBrewer` in quick script to make myself an out-of-this
 
 
 # A little more about cellular automota 
-Cellular automota are created by defining a grid of cells each containing an enitity, where each entity has a state. Each cell has a "neighborhood" of surrounding cells, which are used to determine each cell's state. In this universe, each time point is a generation that produces new cell states based on their previous neighborhood's state. 
+Cellular automota are created by defining a grid of cells each containing an enitity, where each entity has a state. Each cell has a "neighborhood" of surrounding cells, which are used to determine each entity's state. In this universe, each time point is a generation that produces new cell states based on their previous neighborhood's state. 
 
 Cellular automota allow us to consider what the simplest possible agent that interacts with other agents around it to create complex systems could look like. The result is a system that exhibits complex behaviour, not unlike that observed in nature. 
 
