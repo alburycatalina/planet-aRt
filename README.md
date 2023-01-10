@@ -11,5 +11,5 @@ Cellular automota allow us to consider what the simplest possible agent that int
 
 
 # Resources 
-[Neighborhoods: Experimenting with Cyclic Cellular Automata, Fronkonstin](https://fronkonstin.com/2021/01/02/neighborhoods-experimenting-with-cyclic-cellular-automata/)
-[Cellular Automota, The Coding Train](https://www.youtube.com/watch?v=DKGodqDs9sA)
+* [Neighborhoods: Experimenting with Cyclic Cellular Automata, Fronkonstin](https://fronkonstin.com/2021/01/02/neighborhoods-experimenting-with-cyclic-cellular-automata/)
+* [Cellular Automota, The Coding Train](https://www.youtube.com/watch?v=DKGodqDs9sA)
